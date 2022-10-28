@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://educacion30.b-cdn.net/wp-content/uploads/2019/02/girasoles-978x652.jpg.webp);
+    
+    background-size: 1000px;
+}
+
+p{
+    font-size: 100px;
+    color: gold;
+    background-color: orange;
+}
+
+h4{
+    font-size: 70px;
+    color: rgb(91, 86, 59);
+    background-color: rgb(77, 63, 39);
+}
+
+h5{
+    font-size: 30px;
+    color: blueviolet;
+    background-color: rgb(63, 53, 32);
+}
